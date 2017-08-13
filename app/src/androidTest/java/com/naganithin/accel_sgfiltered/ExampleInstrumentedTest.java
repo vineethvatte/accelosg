@@ -1,4 +1,4 @@
-package com.naganithin.accel_sgfiltered;
+package com.vineeth.accelosg;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
