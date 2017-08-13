@@ -1,4 +1,4 @@
-package com.ritik.accelsg;
+package com.vineeth.accelosg;
 
 import android.Manifest;
 import android.content.pm.PackageManager;
