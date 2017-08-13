@@ -1,4 +1,4 @@
-# AccelSG
+# Accelosg
 
 This repository contains the source code for the Accelerometer app with SGolay Filtering.
 
@@ -21,9 +21,9 @@ This app was built using [Android Studio 3.0](https://developer.android.com/stud
 
 ## Author
 
-**Ritik Jain** 
+**Vatte Vineeth** 
 
-14EE35022
+14EE10054
 
 ## License
 
